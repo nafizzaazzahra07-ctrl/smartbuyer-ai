@@ -35,13 +35,13 @@ For **Beauty & Skincare** enthusiasts, SmartBuyer AI provides personalized compa
 *Our system is designed with a scalable architecture to handle complex data flows from multiple sources.*
 
 ### 1. Context Diagram
-![Context Diagram](diagrams/context_diagram.png)
+![Context Diagram](Diagram/Context_Diagram_SmartBuyerAI.png)
 
 ### 2. Data Flow Diagram (DFD) Level 1
-![DFD Level 1](diagrams/dfd_level1.png)
+![DFD Level 1](Diagram/DFD_SmartBuyerAI.png)
 
 ### 3. Use Case Diagram
-![Use Case Diagram](diagrams/use_case_diagram.png)
+![Use Case Diagram](Diagram/Context_Use_Case_Diagram_SmartBuyerAI.png)
 
 ---
 
