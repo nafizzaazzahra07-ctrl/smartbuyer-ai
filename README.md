@@ -41,7 +41,7 @@ For **Beauty & Skincare** enthusiasts, SmartBuyer AI provides personalized compa
 ![DFD Level 1](Diagram/DFD_SmartBuyerAI.png)
 
 ### 3. Use Case Diagram
-![Use Case Diagram](Diagram/Context_Use_Case_Diagram_SmartBuyerAI.png)
+![Use Case Diagram](Diagram/Use_Case_Diagram_SmartBuyerAI.png)
 
 ---
 
