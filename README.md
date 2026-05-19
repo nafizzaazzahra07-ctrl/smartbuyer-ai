@@ -1,4 +1,5 @@
 # 🛡️ SmartBuyer AI
+**Real reviews, real insights, smarter choices.**
 **Understand products better before you buy — powered by AI and real communities.**
 
 >**Live Demo**[(https://app-blyds524cb9d.appmedo.com/)]
